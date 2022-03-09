@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi and welcome to my github. 👋
 
-<!--
-**metehnay/metehnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [React Tasty Donuts](https://github.com/metehnay/react-tasty-donuts)
+- [React API World](https://github.com/metehnay/react-api-world)
+- [React Back To The 90's](https://github.com/metehnay/react-back-to-the-90s)
 
-Here are some ideas to get you started:
+## 🛠 Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML,CSS
+- SCSS
+- JAVASCRIPT
+- REACT
+- BOOTSTRAP
+- FIGMA
+- FIREBASE
