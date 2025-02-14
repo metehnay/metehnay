@@ -1,1 +1,1 @@
-![metehnay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=metehnay&theme=vue-dark&hide_border=false)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/metehnay?cardType=level&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
