@@ -1,1 +1,1 @@
-[![Mete's GitHub stats](https://wonderful-paletas-d4d68c.netlify.app/api?username=metehnay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Mete's GitHub stats](https://wonderful-paletas-d4d68c.netlify.app/api?username=metehnay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
